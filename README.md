@@ -24,7 +24,7 @@ This project attempts to develop a microbiome analysis method based on topologic
 
 We generate a _tmap_ network to serve as the skeleton of the microbiome data, then cluster the microbiome network with Markov cluster algorithm (MCL), and utilize the trajectory with Group-base trajectory modelling (GBTM).
 
-![schema](./assets/schema.jpg)
+![schema](./assets/schema.JPG)
 
 ## Contents
 

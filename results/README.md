@@ -10,7 +10,7 @@ We took avantage of the datasets curated by by Olm et al., which sequencing heal
 
 We applied _tmap_ on this dataset, which consists of 682 samples from 12 countries, and 2262 MAGs. It showed a distinct pattern of stratifications of microbiome landscape (Fig 1A). Based on the similarity of microbial composition, samples were divided into 12 clusters on the map. Notably, _Bifidobacterium_, _Blautia wexlerae_, _Faecalibacterium prausnitzii_, _Bacteroides_, and _Prevotella_ were the key species driving the stratification. To explore the host phenotypes associated with the stratification, we performed the spatial analysis of functional enrichment (SAFE) analysis. The results indicated a strong correlation with host age as well as lifestyle (Fig 1B), which was supported by the referenced article.
 
-![fig1](./figures/fig1.jpg)
+![fig1](./figures/fig1.JPG)
 Fig 1. Infant microbiome assembly and covariates. A) Stratification and driving species. B) Covariates associated with microbiome
 
 #### Age and lifestyle are associated with infant microbiome assembly
@@ -21,7 +21,7 @@ Our work provided a more dynamic and intuitive visualization of the effects of a
 
 These findings align closely with those of the original study. Furthermore, by analyzing the co-enrichment patterns of age and lifestyle on the microbial map, we captured a more nuanced depiction of how their interplay shapes microbiota development, ultimately leading to distinct maturation outcomes.
 
-![fig2](./figures/fig2.jpg)
+![fig2](./figures/fig2.JPG)
 Fig 2. Age and lifestyle are associated with infant microbiome assembly. A) Relative abundance of CAGs by age group and lifestyle resulted from reference article. B) Age distribution on microbiome network. C) Enrichment pattern of lifestyle on microbiome network.
 
 #### Characterization of infant microbiome development
@@ -40,5 +40,5 @@ These findings highlight the diversity in microbiota developmental trajectories 
 
 This analysis provides critical insights into the dynamic processes underlying early gut microbiota development and sheds light on the long-term health implications of lifestyle-driven differences in microbiota maturation.
 
-![fig3](./figures/fig3.jpg)
+![fig3](./figures/fig3.JPG)
 Fig 3. Characterization of infant microbiome development. A) Heatmap of DMM clusters. B) Proportion of samples by DMM clusters and age.
